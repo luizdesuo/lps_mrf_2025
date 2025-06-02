@@ -32,7 +32,7 @@ graph LR
 
 $$
 \begin{equation*}
-p(\mathbf{x}) = \color{green}{p(X_3 \mid X_1)} \color{red}{p(X_2 \mid X_1, X_3)} \color{blue}{p(X_4 \mid X_2)}
+p(\mathbf{x}) = p(X_1)\color{green}{p(X_3 \mid X_1)} \color{red}{p(X_2 \mid X_1, X_3)} \color{blue}{p(X_4 \mid X_2)}
 \end{equation*}
 $$
 </div>
